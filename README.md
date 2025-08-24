@@ -6,7 +6,7 @@
 - 🎓 M.Sc. in Computer Science (Lakehead University, Canada).
 - 🌐 I enjoy creating web & mobile apps and building machine learning models.
 - 📫 Reach me: [carlosord1609@gmail.com](mailto:carlosord1609@gmail.com) • [LinkedIn](https://www.linkedin.com/in/carlos-ordoñez-0a9b25242/)
-- 📄 Résumés: [English](#) • [Español](#) • [Portfolio](https://carlos-ordonez-portfolio.netlify.app/) — open to feedback!
+- 📄 Résumés: [English](Carlos_Ordonez_Resume_ENG.pdf) • [Español](Carlos_Ordonez_Resume_ESP.pdf) • [Portfolio](https://carlos-ordonez-portfolio.netlify.app/) — open to feedback!
 
 ---
 
