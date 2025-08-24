@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Carlos!
+**<span style="font-size:8em; font-weight:bold;">👋 Hey there! I'm Carlos!</span>**
 
 **<span style="font-size:1.5em;">🧑‍💻 About Me</span>**
 - 💡 I like to explore new technologies and build software solutions.
