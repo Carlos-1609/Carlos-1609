@@ -37,7 +37,8 @@
 
 
 ### Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8000FF?style=for-the-badge)
+
 
 
 ---
