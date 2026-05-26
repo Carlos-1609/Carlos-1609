@@ -42,10 +42,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-1609&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-1609&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-stats.vercel.app/api?username=Carlos-1609&theme=tokyo-night&show_icons=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Carlos-1609&theme=tokyonight"/>
 </p>
-
 ---
 
 <!-- Optional: GitHub stats cards (uncomment if you want) -->
