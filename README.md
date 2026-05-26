@@ -39,12 +39,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8000FF?style=for-the-badge)
 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-stats.vercel.app/api?username=Carlos-1609&theme=tokyo-night&show_icons=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Carlos-1609&theme=tokyonight"/>
-</p>
 ---
 
 <!-- Optional: GitHub stats cards (uncomment if you want) -->
