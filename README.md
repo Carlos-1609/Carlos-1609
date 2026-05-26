@@ -38,6 +38,14 @@
 **<span style="font-size:1.25em;">Machine Learning</span>**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8000FF?style=for-the-badge)
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-1609&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-1609&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
 <!-- Optional: GitHub stats cards (uncomment if you want) -->
